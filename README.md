@@ -1,1 +1,1 @@
-An Android application to streamline small-scale purchases in malls. This effectively reduces checkout and payment overhead.
+An Android application to streamline small-scale purchases in malls. This effectively reduces the checkout and payment overhead.
